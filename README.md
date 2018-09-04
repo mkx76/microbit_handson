@@ -14,13 +14,13 @@ HEXファイルをMicrosoft BlockEditorで読み込むことでプロジェク�
 https://github.com/mkx76/microbit_handson/tree/master/Scratch3  
 ※Scratch3.0はβを利用しており、今後変更される可能性があります。
  
-#### 宇宙犬救出ゲーム
+#### サンプルゲーム1: 宇宙犬救出ゲーム
 SpaceGame.sb3  
 宇宙に漂う宇宙犬を宇宙船で助けよう。  
 micro:bitを傾けることで宇宙船が動きます。  
 ![](https://github.com/mkx76/microbit_handson/blob/master/images/spacegame.png?raw=true)  
 
-#### おさるのバスケットボールゲーム
+#### サンプルゲーム2: おさるのバスケットボールゲーム
 MonkeyBasketball.sb3  
 タイミングをあわせてシュートしよう！  
 micro:bitのAボタンを押すとシュートします。  
