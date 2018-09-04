@@ -8,20 +8,21 @@ Microsoft OneDriveで共有しています。
 ## サンプルプログラム
 ### micro:bit  
 https://github.com/mkx76/microbit_handson/tree/master/microbit  
+HEXファイルをMicrosoft BlockEditorで読み込むことでプロジェクトを読み込みできます。
 
 ### micro:bitとScratch3連携  
 https://github.com/mkx76/microbit_handson/tree/master/Scratch3  
 ※Scratch3.0はβを利用しており、今後変更される可能性があります。
  
 #### 宇宙犬救出ゲーム
-SpaceGame.sb3 
-宇宙に漂う宇宙犬を宇宙船で助けよう。 
+SpaceGame.sb3  
+宇宙に漂う宇宙犬を宇宙船で助けよう。  
 micro:bitを傾けることで宇宙船が動きます。
 
 #### おさるのバスケットボールゲーム
-MonkeyBasketball.sb3 
-タイミングをあわせてシュートしよう！ 
-micro:bitのAボタンを押すとシュートします。
+MonkeyBasketball.sb3  
+タイミングをあわせてシュートしよう！  
+micro:bitのAボタンを押すとシュートします。  
 シュート後にもう一度Aボタンを押すともう一度シュートできます。
 
 ## Reference
