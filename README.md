@@ -12,7 +12,18 @@ https://github.com/mkx76/microbit_handson/tree/master/microbit
 ### micro:bitとScratch3連携  
 https://github.com/mkx76/microbit_handson/tree/master/Scratch3  
 ※Scratch3.0はβを利用しており、今後変更される可能性があります。
-  
+ 
+#### 宇宙犬救出ゲーム
+SpaceGame.sb3 
+宇宙に漂う宇宙犬を宇宙船で助けよう。 
+micro:bitを傾けることで宇宙船が動きます。
+
+#### おさるのバスケットボールゲーム
+MonkeyBasketball.sb3 
+タイミングをあわせてシュートしよう！ 
+micro:bitのAボタンを押すとシュートします。
+シュート後にもう一度Aボタンを押すともう一度シュートできます。
+
 ## Reference
 
 ### micro:bit公式
