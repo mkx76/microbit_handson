@@ -10,7 +10,7 @@ Microsoft OneDriveで共有しています。
 https://github.com/mkx76/microbit_handson/tree/master/microbit  
 HEXファイルをMicrosoft BlockEditorで読み込むことでプロジェクトを読み込みできます。
 
-### micro:bitとScratch3連携  
+### micro:bitとScratch3.0(beta)連携  
 https://github.com/mkx76/microbit_handson/tree/master/Scratch3  
 ※Scratch3.0はβを利用しており、今後変更される可能性があります。
  
