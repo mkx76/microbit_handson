@@ -13,6 +13,9 @@ HEXファイルをMicrosoft BlockEditorで読み込むことでプロジェク�
 ### micro:bitとScratch3.0(beta)連携  
 https://github.com/mkx76/microbit_handson/tree/master/Scratch3  
 ※Scratch3.0はβを利用しており、今後変更される可能性があります。
+  
+開発手順は Wikiページを参照  
+![micro:bitとScratch3.0でゲーム開発](https://github.com/mkx76/microbit_handson/wiki/micro:bit-hands-on-Home)
  
 #### サンプルゲーム1: 宇宙犬救出ゲーム
 SpaceGame.sb3  
